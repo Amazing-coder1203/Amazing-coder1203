@@ -1,6 +1,7 @@
 # Hi, I'm Shivkumar Devane 👋
 
-Full-stack software engineer building data pipelines, LLM agents, and analytics tools end-to-end. BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological University, 2026.
+Full-stack software engineer building data pipelines, LLM agents, and analytics tools end-to-end. 
+BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological University, 2026.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-skdevane.pages.dev-000000?style=flat&logo=vercel&logoColor=white)](https://skdevane.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivkumar-devane-mar2005/)
