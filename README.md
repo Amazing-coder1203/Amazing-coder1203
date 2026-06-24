@@ -4,7 +4,7 @@ Full-stack software engineer building data pipelines, LLM agents, and analytics 
 BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological University(Foremerly DCE), 2026.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-skdevane.pages.dev-000000?style=flat&logo=vercel&logoColor=white)](https://skdevane.pages.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivkumar-devane-mar2005/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skdevane/)
 [![Email](https://img.shields.io/badge/Email-sk.os.dev.tech%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sk.os.dev.tech@gmail.com)
 
 ---
