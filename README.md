@@ -10,7 +10,7 @@ Full-stack software engineer building data pipelines, LLM agents, and analytics 
 
 ## 🔧 Open Source
 
-**[VideoLAN / VLC](https://code.videolan.org/videolan/vlc)** — Merged contribution
+![VLC](https://img.shields.io/badge/VLC-FF8800?style=flat&logo=vlcmediaplayer&logoColor=white) **[VideoLAN / VLC](https://code.videolan.org/videolan/vlc)** — Merged contribution
 Added a Volume (gain) control to the Convert/Save profile editor in the Qt interface, letting users boost low-volume source audio without external tools.
 - 🔗 [Merge Request !9368](https://code.videolan.org/videolan/vlc/-/merge_requests/9368) — reviewed and merged by VLC core maintainers into `master`
 
