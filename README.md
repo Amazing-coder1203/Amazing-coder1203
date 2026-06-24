@@ -60,12 +60,6 @@ B.Tech final-year project: real-time pathogenicity prediction for human genomic 
 
 **Also working with:** Gemini API · Tavily API · Agentic workflows & tool orchestration · SSE streaming · CI/CD
 
-## 🏆 Achievements
-
-**DD Robocon 2025** (ABU Mongolia National Qualifiers) · Jan – Aug 2025
-- Secured ₹10 Lakh in corporate sponsorship through stakeholder outreach
-- Led hardware procurement and vendor coordination for a 15-member team
-
 ---
 
 📫 **shivkumardevane47@gmail.com**
