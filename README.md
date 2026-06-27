@@ -76,7 +76,6 @@ B.Tech final-year project: real-time pathogenicity prediction for human genomic 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-**Also working with:** Tavily API · Multi-turn tool orchestration · SSE streaming · CI/CD
 
 ---
 
