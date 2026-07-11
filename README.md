@@ -10,10 +10,13 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 ---
 
 ## 🔧 Open Source
+![VLC](https://img.shields.io/badge/VLC-FF8800?style=flat&logo=vlcmediaplayer&logoColor=white) **[VideoLAN / VLC](https://code.videolan.org/videolan/vlc)** — Merged contributions
+*C++, Qt, QML · Used by 200M+ users*
 
-![VLC](https://img.shields.io/badge/VLC-FF8800?style=flat&logo=vlcmediaplayer&logoColor=white) **[VideoLAN / VLC](https://code.videolan.org/videolan/vlc)** — Merged contribution
-Added a Volume (gain) control to the Convert/Save profile editor in the Qt interface, letting users boost low-volume source audio without external tools.
-- 🔗 [Merge Request !9368](https://code.videolan.org/videolan/vlc/-/merge_requests/9368) — reviewed and merged by VLC core maintainers into `master`
+- Added a Volume gain `QDoubleSpinBox` (0–400%) to the Qt Convert/Save profile editor, eliminating the need for command-line workarounds to boost audio on low-volume files.
+  🔗 [Merge Request !9368](https://code.videolan.org/videolan/vlc/-/merge_requests/9368) — reviewed and merged into `master`
+- Traced broken search/sort in Radio Browser's Discover tab to missing QML bindings (`searchPattern`, `sortOrder`) in `ServicesHomeDisplay.qml` — fix shipped in VLC 4.0, enabling instant filtering across 30,000+ stations for millions of users.
+  🔗 [Merge Request !9463](https://code.videolan.org/videolan/vlc/-/merge_requests/9463) — reviewed and merged into `master`
 
 ## 💼 Experience
 
