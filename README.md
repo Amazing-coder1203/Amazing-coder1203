@@ -6,6 +6,7 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://skdevaneportfolio.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skdevane/)
 [![Email](https://img.shields.io/badge/Email-sk.os.dev.tech%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sk.os.dev.tech@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-555555?style=flat&logo=medium&logoColor=white)](https://medium.com/@skdevane)
 
 ---
 
