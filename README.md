@@ -10,14 +10,26 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 
 ---
 
+<table>
+<tr>
+<td width="65%">
+
 ## 🔧 Open Source
 ![VLC](https://img.shields.io/badge/VLC-FF8800?style=flat&logo=vlcmediaplayer&logoColor=white) **[VideoLAN / VLC](https://code.videolan.org/videolan/vlc)** — Merged contributions · [GitLab Profile](https://code.videolan.org/AmazingCoder1203)
 *C++, Qt, QML · Used by 200M+ users*
-
 - Added a Volume gain `QDoubleSpinBox` (0–400%) to the Qt Convert/Save profile editor, eliminating the need for command-line workarounds to boost audio on low-volume files.
   🔗 [Merge Request !9368](https://code.videolan.org/videolan/vlc/-/merge_requests/9368) — merged
 - Traced broken search/sort in Radio Browser's Discover tab to missing QML bindings (`searchPattern`, `sortOrder`) in `ServicesHomeDisplay.qml` — fix shipped in **VLC 4.0**, enabling instant filtering across 30,000+ stations for millions of users.
   🔗 [Merge Request !9463](https://code.videolan.org/videolan/vlc/-/merge_requests/9463) — merged
+
+</td>
+<td width="35%">
+
+<img src="https://skdevaneportfolio.pages.dev/random_images/vlc_meme.jpeg" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ## 💼 Experience
 
