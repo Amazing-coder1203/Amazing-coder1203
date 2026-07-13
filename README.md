@@ -22,26 +22,21 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
   🔗 [Merge Request !9463](https://code.videolan.org/videolan/vlc/-/merge_requests/9463) — merged
 
 <br clear="both">
-<table>
-<tr>
-<td width="65%">
 
 ## 💼 Experience
+
+<table align="right"><tr><td align="center">
+<img src="https://media.makeameme.org/created/yes-new-opportunity.jpg" width="250"/><br/>
+<b>Always Open to New Opportunities</b> 🐿️
+</td></tr></table>
+
 **Data Analyst (Intern → Full-Time), TickerTactics Algorithms LLP** · Aug 2025 – Present
+
 - Processed daily market feeds from 4 broker APIs (Zerodha, Dhan, ICICI, Upstox) across large historical datasets
 - Redesigned the data pipeline (AWS S3 + Athena querying), cutting analytical query latency by 35%
 - Built a backtesting engine from scratch on millions of records, reporting Sharpe ratio, max drawdown, and win-rate across strategy variants
 
-</td>
-<td width="35%" align="center">
-
-**Always Open to New Opportunities** 🐿️
-
-<img src="https://media.makeameme.org/created/yes-new-opportunity.jpg" width="280"/>
-
-</td>
-</tr>
-</table>
+<br clear="both">
 
 ## 🚀 Featured Projects
 
