@@ -26,7 +26,9 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 - Redesigned the data pipeline (AWS S3 + Athena querying), cutting analytical query latency by 35%
 - Built a backtesting engine from scratch on millions of records, reporting Sharpe ratio, max drawdown, and win-rate across strategy variants
 
-**Always Open to New Opportunities**
+**Always Open to New Opportunities** 🐿️
+
+<img src="https://media.makeameme.org/created/yes-new-opportunity.jpg" width="280"/>
 
 ## 🚀 Featured Projects
 
