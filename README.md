@@ -25,6 +25,7 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 - Processed daily market feeds from 4 broker APIs (Zerodha, Dhan, ICICI, Upstox) across large historical datasets
 - Redesigned the data pipeline (AWS S3 + Athena querying), cutting analytical query latency by 35%
 - Built a backtesting engine from scratch on millions of records, reporting Sharpe ratio, max drawdown, and win-rate across strategy variants
+**Always Open to New Opportunities**
 
 ## 🚀 Featured Projects
 
