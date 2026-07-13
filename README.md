@@ -16,7 +16,7 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 <img src="https://skdevaneportfolio.pages.dev/random_images/vlc_meme.jpeg" width="280"/>
 </td></tr></table>
 
-![VLC](https://img.shields.io/badge/VLC-FF8800?style=flat&logo=vlcmediaplayer&logoColor=white) **[VideoLAN / VLC](https://code.videolan.org/videolan/vlc)** — Merged contributions · [GitLab Profile](https://code.videolan.org/AmazingCoder1203)  
+![VLC](https://img.shields.io/badge/VLC-FF8800?style=flat&logo=vlcmediaplayer&logoColor=white) **[VideoLAN / VLC](https://code.videolan.org/videolan/vlc)** — Merged contributions · [![GitLab](https://img.shields.io/badge/GitLab-Profile-FC6D26?style=flat&logo=gitlab)](https://code.videolan.org/AmazingCoder1203)
 *C++, Qt, QML · Used by 200M+ users*
 
 - Added a Volume gain `QDoubleSpinBox` (0–400%) to the Qt Convert/Save profile editor, eliminating the need for command-line workarounds to boost audio on low-volume files.
@@ -100,7 +100,6 @@ B.Tech final-year project: real-time pathogenicity prediction for human genomic 
 
 📫 **sk.os.dev.tech@gmail.com**
 
-[![GitLab](https://img.shields.io/badge/GitLab-Profile-FC6D26?style=flat&logo=gitlab)](https://code.videolan.org/AmazingCoder1203)
 <!--
 **Amazing-coder1203/Amazing-coder1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
