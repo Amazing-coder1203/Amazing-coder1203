@@ -13,7 +13,7 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 ## 🔧 Open Source
 
 <table align="right"><tr><td align="center">
-<img src="https://skdevaneportfolio.pages.dev/random_images/vlc_meme.jpeg" width="220"/>
+<img src="https://skdevaneportfolio.pages.dev/random_images/vlc_meme.jpeg" width="260"/>
 </td></tr></table>
 
 ![VLC](https://img.shields.io/badge/VLC-FF8800?style=flat&logo=vlcmediaplayer&logoColor=white) **[VideoLAN / VLC](https://code.videolan.org/videolan/vlc)** — Merged contributions · [GitLab Profile](https://code.videolan.org/AmazingCoder1203)  
@@ -29,7 +29,7 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 ## 💼 Experience
 
 <table align="right"><tr><td align="center">
-<img src="https://media.makeameme.org/created/yes-new-opportunity.jpg" width="220"/><br/>
+<img src="https://media.makeameme.org/created/yes-new-opportunity.jpg" width="260"/><br/>
 <b>Always Open to New Opportunities</b> 🐿️
 </td></tr></table>
 
