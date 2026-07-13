@@ -12,7 +12,7 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 
 ## 🔧 Open Source
 
-<table align="right" width="35%"><tr><td align="center">
+<table align="right" width="220"><tr><td align="center">
 <img src="https://skdevaneportfolio.pages.dev/random_images/vlc_meme.jpeg" width="100%"/>
 </td></tr></table>
 
@@ -28,7 +28,7 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 
 ## 💼 Experience
 
-<table align="right" width="35%"><tr><td align="center">
+<table align="right" width="220"><tr><td align="center">
 <img src="https://media.makeameme.org/created/yes-new-opportunity.jpg" width="100%"/><br/>
 <b>Always Open to New Opportunities</b> 🐿️
 </td></tr></table>
