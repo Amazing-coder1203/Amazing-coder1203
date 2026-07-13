@@ -12,8 +12,8 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 
 ## 🔧 Open Source
 
-<table align="right"><tr><td align="center">
-<img src="https://skdevaneportfolio.pages.dev/random_images/vlc_meme.jpeg" width="250"/>
+<table align="right" width="35%"><tr><td align="center">
+<img src="https://skdevaneportfolio.pages.dev/random_images/vlc_meme.jpeg" width="100%"/>
 </td></tr></table>
 
 ![VLC](https://img.shields.io/badge/VLC-FF8800?style=flat&logo=vlcmediaplayer&logoColor=white) **[VideoLAN / VLC](https://code.videolan.org/videolan/vlc)** — Merged contributions · [GitLab Profile](https://code.videolan.org/AmazingCoder1203)  
