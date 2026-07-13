@@ -99,6 +99,8 @@ B.Tech final-year project: real-time pathogenicity prediction for human genomic 
 ---
 
 📫 **sk.os.dev.tech@gmail.com**
+
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-FC6D26?style=flat&logo=gitlab)](https://code.videolan.org/AmazingCoder1203)
 <!--
 **Amazing-coder1203/Amazing-coder1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
