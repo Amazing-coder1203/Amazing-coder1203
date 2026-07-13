@@ -28,8 +28,8 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 
 ## 💼 Experience
 
-<table align="right"><tr><td align="center">
-<img src="https://media.makeameme.org/created/yes-new-opportunity.jpg" width="250"/><br/>
+<table align="right" width="35%"><tr><td align="center">
+<img src="https://media.makeameme.org/created/yes-new-opportunity.jpg" width="100%"/><br/>
 <b>Always Open to New Opportunities</b> 🐿️
 </td></tr></table>
 
