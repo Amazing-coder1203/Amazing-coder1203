@@ -20,10 +20,22 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 [![VideoLAN Profile](https://img.shields.io/badge/VideoLAN-Profile-lightgrey?style=flat&logo=vlcmediaplayer&logoColor=white&labelColor=FF8800)](https://code.videolan.org/AmazingCoder1203) <!--**[VideoLAN / VLC](https://code.videolan.org/videolan/vlc)**--> — Merged contributions  
 *C++, Qt, QML · Used by 200M+ users*
 
+### Merged
+
 - Added a Volume gain `QDoubleSpinBox` (0–400%) to the Qt Convert/Save profile editor, eliminating the need for command-line workarounds to boost audio on low-volume files.
   🔗 [Merge Request !9368](https://code.videolan.org/videolan/vlc/-/merge_requests/9368) — merged
 - Traced broken search/sort in Radio Browser's Discover tab to missing QML bindings (`searchPattern`, `sortOrder`) in `ServicesHomeDisplay.qml` — fix shipped in **VLC 4.0**, enabling instant filtering across 30,000+ stations for millions of users.
   🔗 [Merge Request !9463](https://code.videolan.org/videolan/vlc/-/merge_requests/9463) — merged
+
+### Approved / Waiting for Merge
+
+- Added a "Remove from history" action to the "Continue Watching" context menu, implementing C++ `MLMediaModel` methods and QML bindings to allow users to clear individual items from their playback history directly from the GUI.
+  🔗 [Merge Request !9559](https://code.videolan.org/videolan/vlc/-/merge_requests/9559) — approved / waiting for merge
+- Fixed the broken zoom-in (`Ctrl++`/`Ctrl+=`) and zoom-out shortcuts by mapping explicit keyboard sequences alongside QML's `StandardKey` definitions, ensuring interface zoom hotkeys work reliably across all keyboard layouts.
+  🔗 [Merge Request !9594](https://code.videolan.org/videolan/vlc/-/merge_requests/9594) — approved / waiting for merge
+- Resolved a search regression in the Radio Browser's Discover tab by restoring decentralized QML bindings in `ServicesHomeDisplay.qml`, reconnecting the `BrowseTreeDisplay` search input to the underlying media and device models.
+  🔗 [Merge Request !9599](https://code.videolan.org/videolan/vlc/-/merge_requests/9599) — approved / waiting for merge
+
 
 <br clear="both">
 
