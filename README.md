@@ -35,8 +35,6 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
   🔗 [Merge Request !9594](https://code.videolan.org/videolan/vlc/-/merge_requests/9594) — approved / waiting for merge
 - Resolved a search regression in the Radio Browser's Discover tab by restoring decentralized QML bindings in `ServicesHomeDisplay.qml`, reconnecting the `BrowseTreeDisplay` search input to the underlying media and device models.
   🔗 [Merge Request !9599](https://code.videolan.org/videolan/vlc/-/merge_requests/9599) — approved / waiting for merge
-- Added a "Remove from history" action to the "Continue Watching" context menu, implementing C++ `MLMediaModel` methods and QML bindings to allow users to clear individual items from their playback history directly from the GUI.
-  🔗 [Merge Request !XXXX](https://code.videolan.org/videolan/vlc/-/merge_requests/XXXX) — in review
 
 
 <br clear="both">
