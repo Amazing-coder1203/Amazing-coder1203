@@ -29,9 +29,7 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
   🔗 [Merge Request !9463](https://code.videolan.org/videolan/vlc/-/merge_requests/9463)
 - Resolved a QML selection bug in the shared `ExpandGridView` base component where right-clicking an unselected grid item displayed a reduced context menu due to missing selection model updates.
   🔗 [Merge Request !9559](https://code.videolan.org/videolan/vlc/-/merge_requests/9559)
-
 <!--### Approved / Waiting for Merge-->
-
 - Fixed the broken zoom-in (`Ctrl++`/`Ctrl+=`) and zoom-out shortcuts by mapping explicit keyboard sequences alongside QML's `StandardKey` definitions, ensuring interface zoom hotkeys work reliably across all keyboard layouts.
   🔗 [Merge Request !9594](https://code.videolan.org/videolan/vlc/-/merge_requests/9594)
 - Resolved a search regression in the Radio Browser's Discover tab by restoring decentralized QML bindings in `ServicesHomeDisplay.qml`, reconnecting the `BrowseTreeDisplay` search input to the underlying media and device models.
